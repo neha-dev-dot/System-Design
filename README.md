@@ -23,7 +23,7 @@
   * Dependency Management (npm, Bundler, Bower)
   * Build Systems (Grunt/Gulp)
   * Deploy Process
-  * Continuous Integration (Travis CI, Jenkins)
+  * Continuous Integration (Travis CI, Jenkins) 
 
 ## Web App System design considerations:
 
